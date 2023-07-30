@@ -46,10 +46,6 @@ You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt
 - The core implementation of the share button code was copied from the [@liady](https://github.com/liady) extension with some modifications.
 - Thanks to the [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) repository for inspiring the custom command function for this application.
 
----
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lencx/chatgpt&type=Timeline)](https://star-history.com/#lencx/chatgpt&Timeline)
-
 
 ## License
 
